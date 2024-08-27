@@ -1,0 +1,6 @@
+singlePlaneBytes 960
+
+width: 960
+height: 720
+sensor: {index:0, DeviceOrientation.landscapeLeft}
+raw: 17
